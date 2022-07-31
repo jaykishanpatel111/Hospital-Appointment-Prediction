@@ -1,0 +1,2 @@
+# Hospital-Appointment-Prediction
+In this project, the innovative topic of big data analytics has been shown to provide prediction capabilities in healthcare. This study evaluates the performance of five machine learning techniques, using the (1,10,527‬) outpatients’ visits data. An evaluation of machine learning technique using Spark platform on predicting the patients’ no-show. Conducting several experiments and using different validation methods, the random forest performed best, giving a testing accuracy is 79%.
